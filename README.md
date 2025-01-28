@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @codewithcay
+- 👀 I’m interested in Programing, Design, App Development
+- 🌱 I’m currently learning C#, SQLight
+- 📫 How to reach me on Instagram @codewithcay
+- 😄 Pronouns: she/her
