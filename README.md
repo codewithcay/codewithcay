@@ -6,7 +6,7 @@
 
 I'm a student navigating through my IT foundation year, learning the essentials that'll help me land the perfect apprenticeship. Think of me as someone collecting autumn leaves - except instead of leaves, I'm gathering programming skills, one project at a time.
 
-When I'm not coding, you'll find me with headphones on 🎵, lost in a good book 📚, out for a run 🏃‍♀️, or creating something artsy ✨. I believe the best code comes from a well-rounded mind!
+When I'm not coding, you'll find me with headphones on, lost in a good book, out for a run, or creating something artsy. I believe the best code comes from a well-rounded mind!
 
 ## 🛠️ My Tech Stack
 
