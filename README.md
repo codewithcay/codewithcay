@@ -23,7 +23,7 @@ Right now, I'm like a explorer in the vast world of software development - **dis
 ### 🌟 Current Fascinations:
 - **AI in Coding**: Watching AI revolutionize our industry (and I'm here for it! 🤖)
 - **Indie Game Development**: Because it's the most relatable way to bring creative ideas to life 🎮
-- **Learning & Growing**: Expanding my C# knowledge while building foundations in JavaScript and C++
+- **Learning & Growing**: Expanding my C# knowledge while building foundations in JavaScript
 
 ## 🏆 Project I'm Most Proud Of
 
