@@ -11,9 +11,9 @@ When I'm not coding, you'll find me with headphones on, lost in a good book, out
 ## 🛠️ My Tech Stack
 
 ```
-🔥 Comfortable with:    C#, SQL
-🌱 Growing skills:      Java, JavaScript (just getting cozy with it!)
-🎯 Next on my list:     C++ (the indie game dev dream!)
+🔥 Comfortable with:    Java, HTML, CSS
+🌱 Growing skills:      C#
+🎯 Next on my list:     JavaScript, SQL
 ```
 
 ## 🚀 What I'm Up To
@@ -40,9 +40,6 @@ I'm always open to chat, connect, and learn from others in the community. Whethe
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codewithcay/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheyenne-alvermann-9b4508378/)
 
-## 📊 GitHub Stats
-
-![CodeWithCay's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithcay&show_icons=true&theme=autumn)
 
 ## 💭 Currently Thinking About...
 
