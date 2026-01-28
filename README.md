@@ -12,8 +12,8 @@ When I'm not coding, you'll find me with headphones on, lost in a good book, out
 
 ```
 🔥 Comfortable with:    Java, HTML, CSS
-🌱 Growing skills:      C#
-🎯 Next on my list:     JavaScript, SQL
+🌱 Growing skills:      C#, SQL
+🎯 Next on my list:     JavaScript
 ```
 
 ## 🚀 What I'm Up To
